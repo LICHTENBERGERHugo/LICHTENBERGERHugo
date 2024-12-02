@@ -6,10 +6,9 @@ Computer Science Student
 
 🚀 Computer Science student exploring the realms of code. Passionate about React, NodeJS, TypeScript, Python, and C++. Focused on Cybersecurity, AI, and all things development.
 
-* 🌍  I'm based in Rennes, France
+* 🌍  I'm based in Lyon, France
 * ✉️  You can contact me at [hugo.lichtenberger+pro@gmail.com](mailto:hugo.lichtenberger+pro@gmail.com)
 * 🧠  I'm learning Rust and GCP
-* 🤝  I'm open to collaborating on any cybersecurity project using a modern tech stack
 
 ### Skills
 
